@@ -1,0 +1,7 @@
+{
+  "name": "TeamChanger",
+  "author": "(G_H)",
+  "main": "teamchanger.TeamChanger",
+  "description": "A plugin that change team.",
+  "version": 1.0
+}
