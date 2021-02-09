@@ -2,6 +2,6 @@
   "name": "TeamChanger",
   "author": "(G_H)",
   "main": "teamchanger.TeamChanger",
-  "description": "A plugin that change team.",
+  "description": "A plugin that change team for admins.",
   "version": 1.0
 }
