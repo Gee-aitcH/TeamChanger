@@ -7,10 +7,11 @@ import pluginutil.GHPlugin;
 
 import java.util.Arrays;
 
-import static pluginutil.PluginUtil.GHColors.accent;
-import static pluginutil.PluginUtil.GHColors.pass;
+import static pluginutil.GHPal.accent;
+import static pluginutil.GHPal.pass;
 import static pluginutil.PluginUtil.f;
 
+@SuppressWarnings("unused")
 public class TeamChanger extends GHPlugin {
 
     public TeamChanger() {
