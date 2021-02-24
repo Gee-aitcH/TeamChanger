@@ -15,7 +15,8 @@ repositories{
 ext{
     //the build number that this plugin is made for
     mindustryVersion = 'v125'
-    ghpHash = '00fa48fcfb'
+    ghpHash = '26b7bd47a0'
+
     getGHPModule = {
         if (new File(projectDir.parent, '/GHPluginUtil/').exists())
             return files("../GHPluginUtil/build/libs/GHPluginUtil.jar")
